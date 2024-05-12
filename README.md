@@ -1,7 +1,7 @@
 # Legal-Document-Summarizer
 
 ## Overview:
-This project aims to develop a legal document summarization system using various machine learning techniques. The system uses the BART (Bidirectional and Auto-Regressive Transformers) model for summarization along with tokenization techniques. Additionally, it employs SVM (Support Vector Machine), Multinomial Naive Bayes, Voting Classifier, Random Forest, and Naive Bayes with Adaptive Boost for comparative analysis of summarization quality. 
+This project aims to develop a legal document summarization system using various machine learning techniques. The system uses the BART (Bidirectional and Auto-Regressive Transformers) model for summarization along with tokenization techniques. Additionally, it employs SVM (Support Vector Machine), Multinomial Naive Bayes, Voting Classifier, Random Forest, and Multinomial Naive Bayes with Adaptive Boost for comparative analysis of summarization quality. 
 
 ## Workflow:
 
